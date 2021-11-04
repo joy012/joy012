@@ -11,7 +11,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1E7M5WalMdJljc_rj_Ojl0dmvfxj7I338/view](https://drive.google.com/file/d/1E7M5WalMdJljc_rj_Ojl0dmvfxj7I338/view)
 
-- ⚡ Fun fact **I love to play guitar.**
+- ⚡ Fun fact **I love to play Billiards.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
