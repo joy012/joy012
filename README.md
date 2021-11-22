@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zahidul Islam Joy 👋</h1>
 <h3 align="center">An enthusiastic Full-Stack Developer</h3>
 
-- 🔭 Currently working as Lead Full-Stack Developer at [tixio](https://tixio.io/)
+- 🔭 Currently working as **Associate Developer** at [tixio](https://tixio.io/)
 
 - 🌱 I’m currently exploring Blockchain & learning **Solidity**
 
