@@ -3,8 +3,6 @@
 
 - 🔭 Currently working as **Associate Developer** at [tixio](https://tixio.io/)
 
-- 🌱 I’m currently exploring Blockchain & learning **Solidity**
-
 - 👨‍💻 Some of my recent works are available at [https://zahidulislamjoy.netlify.app/](https://zahidulislamjoy.netlify.app/)
 
 - 📫 How to reach me **joy.buet.012@gmail.com**
