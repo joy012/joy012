@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **joy.buet.012@gmail.com**
 
-- ⚡ Fun fact **I love to play Billiards.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
