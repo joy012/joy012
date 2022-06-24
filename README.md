@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zahidul Islam Joy 👋</h1>
-<h3 align="center">An enthusiastic Full-Stack Developer</h3>
+<h3 align="center">An enthusiastic Front End Developer</h3>
 
 - 🔭 Currently working as **Associate Developer** at [tixio](https://tixio.io/)
 
