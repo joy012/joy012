@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zahidul Islam Joy 👋</h1>
 <h3 align="center">An enthusiastic Front End Developer</h3>
 
-- 🔭 Currently working as **Associate Developer** at [tixio](https://tixio.io/)
+- 🔭 Currently working as **Associate Developer** at [Tixio Technologies AS.](https://tixio.io/)
 
 - 👨‍💻 Some of my recent works are available at [https://zahidulislamjoy.netlify.app/](https://zahidulislamjoy.netlify.app/)
 
