@@ -21,7 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy012&show_icons=true&locale=en&layout=compact" alt="joy012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy012&show_icons=true&locale=en" alt="joy012" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy012&" alt="joy012" /></p>
 
