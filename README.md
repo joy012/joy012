@@ -1,4 +1,4 @@
-- 🔭 Currently working as **Associate Developer** at [Tixio Technologies AS.](https://tixio.io/)
+- 🔭 Currently working as **Software Developer** at [Tixio Technologies AS.](https://tixio.io/)
 
 - 👨‍💻 Some of my recent works are available at [https://zahidulislamjoy.netlify.app/](https://zahidulislamjoy.netlify.app/)
 
